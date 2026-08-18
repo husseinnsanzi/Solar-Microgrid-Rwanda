@@ -4,7 +4,7 @@ An independent engineering project that designs and simulates a standalone solar
 microgrid capable of reliably powering a rural health center in Rwanda — and proves it
 costs roughly **half as much as a diesel generator** over 25 years.
 
-**Author:** Hussein NSANZIMFURA · Electrical Power Engineering · Kigali, Rwanda
+**Author:** Hussein NSANZIMFURA · Electrical Power Engineer · Kigali, Rwanda
 
 ---
 
@@ -56,7 +56,7 @@ The design followed five stages:
 
 ## How to Run the Simulation
 
-Open `simulation/microgrid_simulation.py` in [Google Colab](https://colab.research.google.com)
+Open `simulation/microgrid_simulation.py` in [Google Colab](https://colab.research.google.com/drive/1W1galnXHn1LDsn8cAq_HUHb0Z3JeQ0lb?authuser=2#scrollTo=olIsurwlalDO )
 or any Python environment with `numpy` and `matplotlib`, and run it top to bottom. It
 reproduces the load profile, solar generation, battery simulation, and cost comparison.
 
